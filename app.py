@@ -16,10 +16,17 @@ body {
   font-size: 14px;
   padding: 10%;
 }
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
 ul {
   list-style: none !important;
   padding-left: 0;
 }
+
 img {
   width: 90%;
 }
