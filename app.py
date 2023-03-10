@@ -17,7 +17,8 @@ body {
   padding: 10%;
 }
 ul {
-  list-style: none;
+  list-style: none !important;
+  padding-left: 0;
 }
 img {
   width: 90%;
